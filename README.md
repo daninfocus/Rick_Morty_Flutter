@@ -1,2 +1,2 @@
 # rick_morty
-![Alt Text](https://imgur.com/a/KMj7KFJ)
+![Alt Text](https://i.imgur.com/iBwDIMH.mp4)
